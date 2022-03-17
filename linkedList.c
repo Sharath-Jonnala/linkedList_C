@@ -131,7 +131,7 @@ int linkedListLength(ll_node * head)
     return length;
 }
 
-int updateNode(ll_node * head, int position, int data)
+int updateNodeInPosition(ll_node * head, int position, int data)
 {
     if(head == NULL)
     {

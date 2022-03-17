@@ -16,7 +16,7 @@ addNodeToPosition(head, 3, 80);
 dislayLinkedList(head);
 printf("%d\n",linkedListLength(head));
 
-updateNode(head, 3, 69);
+updateNodeInPosition(head, 3, 69);
 dislayLinkedList(head);
 printf("%d\n",linkedListLength(head));
 
